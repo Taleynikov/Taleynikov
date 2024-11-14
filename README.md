@@ -1,6 +1,6 @@
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/2479e192-3e6b-450e-aa89-66cc4184926f)
+<a href="https://east-of-eden.netlify.app/"><img src="https://github.com/user-attachments/assets/2479e192-3e6b-450e-aa89-66cc4184926f" alt="Header"></a>
 Background image from my [Alternative CV-Game](https://east-of-eden.netlify.app/).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mirskyi-dev/) &nbsp;
