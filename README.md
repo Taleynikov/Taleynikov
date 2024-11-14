@@ -19,6 +19,8 @@ Background image from my [Alternative CV-Game](https://east-of-eden.netlify.app/
 
 <div align="center">
   
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+  
 ## 💻 My Tech Stack:
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab" /> &emsp;
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" /> &emsp;
@@ -26,5 +28,12 @@ Background image from my [Alternative CV-Game](https://east-of-eden.netlify.app/
 <img src="https://skillicons.dev/icons?i=threejs" /> 
 ![PixiJs](https://github.com/user-attachments/assets/fbb82690-9bbf-4392-9618-d7762d2dce78) &emsp;
 <img src="https://skillicons.dev/icons?i=webstorm,ps,ae" /> &emsp;
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taleynikov&show_icons=true&count_private=true&theme=dracula" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taleynikov&layout=compact&theme=dracula" />&nbsp;&nbsp;
+</p>
 
 </div>
