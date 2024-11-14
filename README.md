@@ -14,7 +14,9 @@ Background image from my [Alternative CV-Game](https://east-of-eden.netlify.app/
 - 📝 I’m inspired by the possibility of creating my own game worlds.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: After I finished teaching, my student got a job at EPAM, but I didn't. Guess my teaching methods were a little too effective!
+&nbsp;
 
+&nbsp;
 <div align="center">
   
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
