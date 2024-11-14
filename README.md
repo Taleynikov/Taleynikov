@@ -45,8 +45,9 @@ Background image from my [Alternative CV-Game](https://east-of-eden.netlify.app/
 &nbsp;
 <a href="https://www.youtube.com/@undersidezone4169"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 &nbsp;
-<a href="https://codepen.io/ShittyWizard"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"> </a>
-
+<a href="https://codepen.io/ShittyWizard"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/7099289/taleynikov?tab=profile"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
 
 <a href="https://east-of-eden.netlify.app/"><img src="https://github.com/user-attachments/assets/5b752287-bf52-4c4d-92ff-fb23e3b839e9" alt="Header"></a>
 </div>
