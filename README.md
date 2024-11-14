@@ -47,4 +47,6 @@ Background image from my [Alternative CV-Game](https://east-of-eden.netlify.app/
 &nbsp;
 <a href="https://codepen.io/ShittyWizard"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"> </a>
 
+
+<a href="https://east-of-eden.netlify.app/"><img src="https://github.com/user-attachments/assets/5b752287-bf52-4c4d-92ff-fb23e3b839e9" alt="Header"></a>
 </div>
