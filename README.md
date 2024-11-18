@@ -19,7 +19,7 @@ Background image from my [Alternative CV-Game](https://east-of-eden.netlify.app/
 &nbsp;
 <div align="center">
   
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![](https://komarev.com/ghpvc/?username=taleynikov&color=blue)
   
